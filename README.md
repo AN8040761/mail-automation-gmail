@@ -12,4 +12,7 @@ In order to use this e-mail automation program you should :
 python send_wa.py
 7. You could optionally set the time delay in seconds between sending the e-mails by changing the value of time.sleep(5) - currently set to five seconds.
 
+For more info you could check:
+https://stackoverflow.com/questions/37201250/sending-email-via-gmail-python
+
 
