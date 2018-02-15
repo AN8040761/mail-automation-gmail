@@ -1,5 +1,6 @@
 # mail-automation-gmail
-E-mail automation using oauth 2.0
+E-mail automation using oauth 2.0.
+
 In order to use this e-mail automation program you should :
 1. Allow acces to less secure apps
 2. Turn on Gmail API
